@@ -1,4 +1,4 @@
 # Common-Algorithms-Templates
 
-A Repository containing the implememtations of various algorithms
+A repository containing the implememtations of various algorithms.                                                                  
 Languages: C++,Python
